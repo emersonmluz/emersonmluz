@@ -1,9 +1,9 @@
 <h1 align="center">Olá, sou Émerson M. Luz</h1>
 <h3 align="center">Desenvolvedor Mobile</h3>
 
-- Estou trabalhando na [Vortigo company`s Rocket Program](https://www.instagram.com/vortigo.digital/)
+- Trabalhando na [Vortigo Digital](https://www.instagram.com/vortigo.digital/)
 
-- Atualmente, estudo **Swift/Xcode**.
+- Atualmente, estudo **Swift/Xcode**, porém, pretendo estudar o ecosistema mobile como um todo, tanto programação nativa de Android e iOS como programação híbrida.
 
 - Veja meus projetos em [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
 
