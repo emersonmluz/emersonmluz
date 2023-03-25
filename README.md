@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Émerson M. Luz</h1>
-<h3 align="center">A mobile developer in training.</h3>
+<h3 align="center">Desenvolvedor Mobile.</h3>
 
-- I’m working on the [Vortigo company`s Rocket Program](https://www.instagram.com/vortigo.digital/)
+- Estou trabalhando na [Vortigo company`s Rocket Program](https://www.instagram.com/vortigo.digital/)
 
-- I’m currently learning **Swift/Xcode**
+- Atualmente, estudo Swift **Swift/Xcode**
 
-- All of my projects are available at [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
+- Veja meus projetos em [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
