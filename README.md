@@ -3,7 +3,7 @@
 
 - Trabalho na [Vortigo Digital](https://www.instagram.com/vortigo.digital/)
 
-- Atualmente, estudo **Swift/Xcode**, porém, pretendo estudar o ecosistema mobile como um todo, tanto programação nativa de Android e iOS como programação híbrida.
+- Atualmente, estudo **Swift/Xcode**, porém, pretendo estudar o ecosistema mobile como um todo, tanto programação nativa para Android e iOS como programação híbrida.
 
 - Veja meus projetos em [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
 
