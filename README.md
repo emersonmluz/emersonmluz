@@ -3,7 +3,7 @@
 
 - Estou trabalhando na [Vortigo company`s Rocket Program](https://www.instagram.com/vortigo.digital/)
 
-- Atualmente, estudo **Swift/Xcode**
+- Atualmente, estudo **Swift/Xcode**.
 
 - Veja meus projetos em [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
 
