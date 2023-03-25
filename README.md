@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Émerson M. Luz</h1>
-<h3 align="center">Desenvolvedor Mobile.</h3>
+<h3 align="center">Desenvolvedor Mobile</h3>
 
 - Estou trabalhando na [Vortigo company`s Rocket Program](https://www.instagram.com/vortigo.digital/)
 
