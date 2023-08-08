@@ -1,11 +1,9 @@
 <h1 align="center">Olá, sou Émerson M. Luz</h1>
-<h3 align="center">Desenvolvedor Mobile</h3>
+<h3 align="center">Desenvolvedor iOS</h3>
 
 - Trabalho na [Vortigo Digital](https://www.instagram.com/vortigo.digital/).
 
-- Atualmente, estudo **Swift/Xcode**, porém, pretendo estudar o ecosistema mobile como um todo, tanto programação nativa para Android e iOS como programação híbrida.
-
-- Veja meus projetos em [https://github.com/emersonmluz?tab=repositories](https://github.com/emersonmluz?tab=repositories)
+- Atualmente, atuo com **Swift/Xcode**, também estou estudando Flutter e pretendo estudar o ecosistema mobile como um todo, tanto programação nativa como programação híbrida.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
