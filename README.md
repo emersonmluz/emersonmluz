@@ -3,7 +3,7 @@
 
 - Trabalho na [Vortigo Digital](https://www.instagram.com/vortigo.digital/).
 
-- Atualmente, atuo com **Swift/Xcode**, também estou estudando Flutter e pretendo estudar o ecosistema mobile como um todo, tanto programação nativa como programação híbrida.
+- Atualmente, atuo com **Swift/Xcode**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
