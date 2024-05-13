@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Émerson M. Luz</h1>
+<h1 align="center">Émerson Luz</h1>
 <h3 align="center">Desenvolvedor iOS Nativo</h3>
 
 - Trabalho na [Vortigo Digital](https://www.instagram.com/vortigo.digital/), onde executo tarefas de implementação e desenvolvimento de novas funcionalidades, refatoração de código e arquitetura, passando de Storyboard para View Code (Swift Programmatically), além de realizar correção de bugs.
