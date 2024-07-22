@@ -1,13 +1,15 @@
 <h1 align="center">Émerson M. Luz</h1>
 <h3 align="center">Desenvolvedor iOS Nativo</h3>
 
-Olá, trabalho na [Vortigo Digital](https://www.instagram.com/vortigo.digital/), onde executo tarefas de implementação e desenvolvimento de novas funcionalidades, refatoração de código e correção de bugs.
+Olá,
 
-Algumas das principais contribuições que realizei:
+Atuo na Vortigo Digital, onde sou responsável pela implementação e desenvolvimento de novas funcionalidades, refatoração de código e correção de bugs.
 
--  Mudar de storyboard para view code;
--  Reorganizar todo o projeto na arquitetura MVVM-C;
--  Criar documentação técnica para o App, além de documentar processos, como upload para App Store e Git Flow. 
+Minhas principais contribuições incluem:
+
+- Transição do uso de storyboard para view code;
+- Reorganização completa do projeto utilizando a arquitetura MVVM-C;
+- Criação de documentação técnica para o aplicativo, além da documentação de processos, como upload para a App Store e Git Flow.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
