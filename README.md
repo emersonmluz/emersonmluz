@@ -3,13 +3,7 @@
 
 Olá,
 
-Atuo na Vortigo Digital, onde sou responsável pela implementação e desenvolvimento de novas funcionalidades, refatoração de código e correção de bugs.
-
-Minhas principais contribuições incluem:
-
-- Transição do uso de storyboard para view code;
-- Reorganização completa do projeto utilizando a arquitetura MVVM-C;
-- Criação de documentação técnica para o aplicativo, além da documentação de processos, como upload para a App Store e Git Flow.
+Sou desenvolvedor iOS nativo com experiência em iOS SDK e conhecimento da Apple Guidelines. Desenvolvimento com ênfase em usabilidade e experiência do usuário. Tenho vivência em metodologias ágeis (Scrum e Kanban). Aplicação de código limpo e escalável.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
