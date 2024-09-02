@@ -1,5 +1,5 @@
 <h1 align="center">Émerson M. Luz</h1>
-<h3 align="center">Desenvolvedor iOS Nativo</h3>
+<h3 align="center">iOS Engineer</h3>
 
 Olá,
 
