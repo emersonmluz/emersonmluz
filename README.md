@@ -1,9 +1,9 @@
 <h1 align="center">Émerson M. Luz</h1>
 <h3 align="center">iOS Engineer</h3>
 
-Olá,
+Hello,
 
-Sou desenvolvedor iOS nativo com experiência em iOS SDK e conhecimento da Apple Guidelines. Desenvolvimento com ênfase em usabilidade e experiência do usuário. Tenho vivência em metodologias ágeis (Scrum e Kanban). Aplicação de código limpo e escalável.
+I am a native iOS developer with experience in the iOS SDK and familiarity with Apple Human Interface Guidelines. My development approach emphasizes usability and user experience. I have experience with agile methodologies (Scrum and Kanban) and apply clean and scalable code practices.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
