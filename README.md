@@ -1,7 +1,9 @@
 <h1 align="center">Émerson M. Luz</h1>
 <h3 align="center">Desenvolvedor iOS</h3>
 
-Meu foco no desenvolvimento é criar soluções eficientes e bem estruturadas, com forte base em orientação a objetos e programação funcional. Domino a arquitetura MVVM-C e aplico os princípios SOLID para garantir que o código seja escalável e mantenha altos padrões de qualidade.
+Procuro desenvolver soluções eficientes e bem estruturadas, com forte base em orientação a objetos e programação funcional. Domino a arquitetura MVVM-C e aplico os princípios SOLID para garantir que o código seja escalável e mantenha altos padrões de qualidade. Estou familiarizado com as diretrizes da Apple e possuo experiência no gerenciamento de aplicativos na App Store, garantindo conformidade e otimização para o ambiente iOS.
+
+Atualmente estou explorando DevOps, com foco na integração e entrega contínua e automação de processos para otimizar a produtividade e assegurar a qualidade nas entregas. Também tenho interesse em aprimorar minhas habilidades em inglês para expandir minha comunicação e colaborar em projetos internacionais.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
