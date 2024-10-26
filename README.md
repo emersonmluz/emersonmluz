@@ -1,9 +1,7 @@
 <h1 align="center">Émerson M. Luz</h1>
-<h3 align="center">Desenvolvedor iOS</h3>
+<h3 align="center">Mobile Software Developer & Front-end</h3>
 
 Procuro desenvolver soluções eficientes e bem estruturadas, com forte base em orientação a objetos e programação funcional. Domino a arquitetura MVVM-C e aplico os princípios SOLID para garantir que o código seja escalável e mantenha altos padrões de qualidade. Estou familiarizado com as diretrizes da Apple e possuo experiência no gerenciamento de aplicativos na App Store, garantindo conformidade e otimização para o ambiente iOS.
-
-Atualmente estou explorando DevOps, com foco na integração e entrega contínua e automação de processos para otimizar a produtividade e assegurar a qualidade nas entregas. Também tenho interesse em aprimorar minhas habilidades em inglês para expandir minha comunicação e colaborar em projetos internacionais.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +9,20 @@ Atualmente estou explorando DevOps, com foco na integração e entrega contínua
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </a>
+<p>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+</p>
