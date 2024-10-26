@@ -10,7 +10,7 @@ Procuro desenvolver soluções eficientes e bem estruturadas, com forte base em 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -22,7 +22,7 @@ Procuro desenvolver soluções eficientes e bem estruturadas, com forte base em 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
   </a>
-  <a href="https://www.visualstudio.com/devops" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/infinity/infinity-original.svg" alt="devops" width="40" height="40"/>
-  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
 </p>
