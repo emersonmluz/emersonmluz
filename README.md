@@ -1,7 +1,7 @@
 <h1 align="center">Émerson M. Luz</h1>
 <h3 align="center">Mobile Software Developer & Front-end</h3>
 
-Procuro desenvolver soluções bem estruturadas, com forte base em orientação a objetos e programação funcional. Domino a arquitetura MVVM-C e aplico o princípio SOLID para garantir que o código seja escalável. Estou familiarizado com as diretrizes da Apple e possuo experiência no gerenciamento de aplicativos na App Store, garantindo conformidade e otimização para o ambiente iOS.
+Procuro desenvolver soluções bem estruturadas, com forte base em orientação a objetos e programação funcional. Domino a arquitetura MVVM-C e aplico o princípio SOLID para garantir que o código seja escalável. Estou familiarizado com as diretrizes da Apple e possuo experiência no gerenciamento de aplicativos na App Store.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
