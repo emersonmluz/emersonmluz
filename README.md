@@ -1,7 +1,12 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Mobile Software Developer & Front-end</h3>
+<h3 align="center">Mobile Software Developer</h3>
 
-Desenvolvedor iOS com expertise em Swift utilizando View Code e Auto Layout. Domino as arquiteturas MVVM-C, MVVM, VIP e VIPER para criar apps robustos e escaláveis. Aplico SOLID e Design Patterns, garantindo código de alta qualidade e fácil manutenção. Experiência completa no ciclo de desenvolvimento do projeto, desde o design até a publicação na App Store. Além disso, estou explorando o desenvolvimento com OutSystems, plataforma de low-code, para projetos pessoais de web sites e aplicativos híbridos.
+● Profissional com forte senso de colaboração, comprometido em alcançar resultados e proativo na busca de soluções inovadoras;
+● Possuo uma abordagem analítica para resolução de problemas, adapto-me facilmente a novas situações e tenho um forte compromisso com o aprendizado contínuo, buscando sempre aprimorar minhas habilidades;
+● Sou um profissional altamente motivado e determinado, com uma mente aberta para novas ideias e perspectivas;
+● Valorizo a diversidade e a inclusão, trabalhando de forma imparcial e organizada para garantir a excelência em todos os projetos;
+● Sou detalhista e possuo forte senso de iniciativa;
+● Tenho como foco principal a entrega de experiências excepcionais aos usuários.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
