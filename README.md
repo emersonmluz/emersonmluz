@@ -1,11 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Analista & Desenvolvedor</h3>
+<h3 align="center">Desenvolvedor Mobile | iOS & Flutter | Especialista em Arquitetura</h3>
 
-<p>Após adquirir sólida experiência em desenvolvimento mobile, arquitetura de software e padrões de design, desenvolvi um forte interesse pela análise de dados, métricas de negócio e estatística empresarial.</p>
-
-<p>Tenho estudado Python com foco em análise de dados, utilizando bibliotecas como Pandas, Numpy, Matplotlib e Seaborn, buscando aprofundar minha capacidade de extrair insights valiosos de dados. Paralelamente, estou me aprofundando em estatística aplicada, modelagem de dados, ETL e construção de Dashboards com Power BI e Tableau para transformar dados em informações acionáveis.</p>
-
-<p>Meu objetivo é unir minha visão técnica com expertise administrativa para desenvolver uma abordagem analítica e estratégica baseada em dados, contribuindo para a geração de valor de negócio.</p>
+<p>Desenvolvedor mobile com experiência sólida em iOS nativo e, mais recentemente, com Flutter para aplicações híbridas. Atuação em migração de código legado para arquitetura MVVM-C, componentização e construção de soluções escaláveis com SOLID e Design Patterns, utilizando boas práticas de engenharia de software. Colaboração em equipes multidisciplinares com metodologias ágeis (Scrum, Kanban e XP) com foco em entrega contínua, revisão de código e melhoria técnica constante. Valorizo a engenharia de software acima da ferramenta. Acredito que boas decisões arquiteturais, planejamento bem estruturado e colaboração constante são essenciais para criar produtos sustentáveis e de qualidade.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
