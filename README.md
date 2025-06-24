@@ -1,7 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
 <h3 align="center">Engenheiro Mobile | iOS & Flutter | Domínio em Arquitetura Limpa e Metodologias Ágeis</h3>
 
-<p>Desenvolvedor mobile com experiência sólida em iOS nativo e, mais recentemente, com Flutter para aplicações híbridas. Atuação em migração de código legado para arquitetura MVVM-C, incluindo criação de componentes reutilizáveis e aplicação de SOLID e Design Patterns. Colaboração com equipes multidisciplinares em metodologias ágeis com foco em entrega contínua, revisão de código e melhoria técnica constante. Acredito que boas decisões arquiteturais, planejamento bem estruturado e colaboração constante são essenciais para criar produtos sustentáveis e de qualidade.</p>
+<p>Desenvolvedor mobile com experiência sólida em iOS nativo e, mais recentemente, com Flutter para aplicações híbridas. Atuação em migração de código legado para arquitetura MVVM-C, incluindo criação de componentes reutilizáveis e aplicação de SOLID e Design Patterns. Colaboração com equipes multidisciplinares em metodologias ágeis com foco em entrega contínua, revisão de código e melhoria técnica constante. Busco aperfeiçoamento técnico, pessoal e profissional de forma contínua, especialmente no que diz respeito a planejamento estratégico de projetos e código sustentável.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
