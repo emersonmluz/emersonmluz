@@ -1,9 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Desenvolvedor Mobile | iOS | Flutter</h3>
+<h3 align="center">SysAdmin</h3>
 
-<p>Sou desenvolvedor mobile especializado em iOS, já atuei na migração de código legado, aplicando SOLID, Design Patterns e arquitetura MVVM, substituindo Auto Layout por View Code e criando componentes reutilizáveis. Tenho vivência com a metodologia Scrum, Git/Gitflow, publicação na App Store e uso de SQL em ambiente de homologação.
-
-Atualmente, desenvolvo um projeto pessoal com Flutter, servindo como aprendizado e portifólio, para assim poder atuar em multiplataforma.</p>
+<p>Administrador de Sistemas com sólida experiência em infraestrutura On-Premise com gestão de Active Directory, GPOs, Políticas de Segurança em Windows Server e administração de Redes (TCP/IP, DNS, DHCP). Atualmente cursando Pós-Graduação em Cloud & Edge Computing, com objetivo de atuar em ambientes híbridos e cloud-native. Possuo ainda experiência complementar em desenvolvimento de software (Mobile/iOS) e vivência na metodologias Scrum.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
