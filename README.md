@@ -1,5 +1,5 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">SysAdmin</h3>
+<h3 align="center">Administrador de Sistemas</h3>
 
 <p>Administrador de Sistemas com sólida experiência em infraestrutura On-Premise com gestão de Active Directory, GPOs, Políticas de Segurança em Windows Server e administração de Redes (TCP/IP, DNS, DHCP). Atualmente cursando Pós-Graduação em Cloud & Edge Computing, com objetivo de atuar em ambientes híbridos e cloud-native. Possuo ainda experiência complementar em desenvolvimento de software (Mobile/iOS) e vivência na metodologias Scrum.</p>
 
