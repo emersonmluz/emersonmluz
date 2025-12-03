@@ -1,11 +1,11 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Administrador de Sistemas</h3>
+<h3 align="center">SysAdmin</h3>
 
-<p>Administrador de Sistemas com sólida experiência em infraestrutura On-Premise com gestão de Active Directory, GPOs, Políticas de Segurança em Windows Server e administração de Redes (TCP/IP, DNS, DHCP).
+<p>Administrador de Sistemas (SysAdmin) em transição de carreira para Cloud Computing, com conhecimento em infraestrutura On-Premise (Active Directory, Redes, Segurança Windows Server) e experiência em suporte operacional e monitoramento de sistemas. Buscando atuar como Analista de Operações em Nuvem com foco na gestão e monitoramento das principais soluções em nuvem (AWS e Azure).
 
-Atualmente cursando Pós-Graduação em Cloud & Edge Computing, com objetivo de me especializar em Segurança de Borda (Edge Security), processamento de alto desempenho, otimizar o consumo de banda e viabilizar aplicações críticas em tempo real (IoT, 5G).
+Atualmente cursando Pós-Graduação em Cloud & Edge Computing para me aprofundar na arquitetura de soluções modernas, como Segurança em Borda (Edge Security) e sistemas de tempo real, com foco em otimização de custos e alta performance.
 
-Possuo ainda experiência complementar em desenvolvimento de software (Mobile/iOS) e vivência na metodologias Scrum.</p>
+Experiência complementar em desenvolvimento de software (Mobile/iOS) e vivência na metodologia Scrum, o que me oferece entendimento aprofundado de arquitetura de software e modelagem de dados.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
