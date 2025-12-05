@@ -1,5 +1,5 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">SysAdmin | Analista de Operações em Nuvem</h3>
+<h3 align="center">Analista de Segurança & Operações em Nuvem | SOC | SysAdmin | Desenvolvedor</h3>
 
 <p>Administrador de Sistemas (SysAdmin) em transição de carreira para Cloud Computing, com conhecimento em infraestrutura On-Premise (Active Directory, Redes, Segurança Windows Server) e experiência em suporte operacional e monitoramento de sistemas.
 
