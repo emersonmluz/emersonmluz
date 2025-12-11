@@ -1,7 +1,9 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Analista de Segurança & Operações em Nuvem | SOC | NOC</h3>
+<h3 align="center">Analista de Segurança & Operações em Nuvem | SOC</h3>
 
-<p>Sou um profissional de TI híbrido com 5 anos de experiência, 3 anos como SysAdmin (infraestrutura, redes) e 2 anos em desenvolvimento mobile, em transição para cibersegurança em ambientes cloud.</p>
+<p>Profissional em transição de carreira para Cibersegurança, com sólida experiência em SysAdmin On-Premise e Desenvolvimento Mobile, estou ativamente buscando minha primeira oportunidade em Analista de SOC ou funções relacionadas à Cloud Security..
+
+Atualmente cursando Pós-Graduação em Cloud & Edge Computing (com ênfase em Segurança e Arquitetura Híbrida).</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
