@@ -1,7 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Cloud Engineer | SRE & SecOps</h3>
+<h3 align="center">Cloud Engineer | SRE - Site Reliability Engineering</h3>
 
-<p>Engenheiro focado na convergência entre Operações de Confiabilidade (SRE) e Segurança da Informação (SecOps). Combino uma base técnica sólida em infraestrutura tradicional (Linux, Redes, Servidores) com a mentalidade de engenharia de software para criar ambientes resilientes e seguros.</p>
+<p>Profissional de tecnologia em migração para operações em nuvem, com foco em Site Reliability Engineering (SRE). Combino atuação técnica em infraestrutura tradicional (Linux, Redes, Servidores) com experiência em desenvolvimento de software.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
