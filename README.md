@@ -1,7 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
-<h3 align="center">Cloud Engineer | SRE - Site Reliability Engineering</h3>
+<h3 align="center">Cloud & Edge Engineer</h3>
 
-<p>Profissional de tecnologia em migração para operações em nuvem, com foco em Site Reliability Engineering (SRE). Combino atuação técnica em infraestrutura tradicional (Linux, Redes, Servidores) com experiência em desenvolvimento de software.</p>
+<p>Profissional com base sólida em infraestrutura, redes e desenvolvimento, em transição para ambientes Cloud e Edge Computing, com foco em conectividade e integração de dispositivos Edge/IoT e sistemas distribuídos.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
