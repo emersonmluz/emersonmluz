@@ -1,7 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
 <h3 align="center">Cloud & Edge Engineer</h3>
 
-<p>Profissional em transição para Cloud & Edge Computing aplicado à Indústria 4.0, com sólida experiência em infraestrutura, redes e desenvolvimento de software.</p>
+<p>Engenheiro em formação com atuação na convergência entre infraestrutura, software e operação, focado em Cloud & Edge Computing aplicados a ambientes industriais e críticos.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
