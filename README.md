@@ -1,7 +1,7 @@
 <h1 align="center">Émerson Luz</h1>
 <h3 align="center">Network Engineer | Edge, IoT & Distributed Systems</h3>
 
-<p>Engenheiro de redes em formação, com foco em redes modernas, edge computing e conectividade IoT, Pós-graduando em Cloud & Edge Computing, voltado ao desenvolvimento de soluções para a Indústria 4.0.</p>
+<p>Engenheiro de redes com foco em Cloud & Edge Computing, atuando na integração e conectividade para IoT e sistemas distribuídos.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
